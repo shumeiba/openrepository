@@ -1,1 +1,1 @@
-# openrepository
+# 一个公开的存储仓库
